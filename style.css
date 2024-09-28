@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 251, 0);
+}
+
+table{
+    border: 1px;
+    border-color: rgba(64, 83, 190, 0.753);
+    height: 300px;
+    width: 400px;
+    background: linear-gradient(to right,Aqua, red,orange);
+}
+
+#rotX
+{
+    transform: rotateX(180deg);
+}
+#cap
+{
+    text-transform: capitalize; 
+}
+#up
+{
+    text-transform: uppercase;
+}
+#low
+{
+    text-transform: lowercase;
+}
+#line
+{
+    text-decoration: underline;
+}
+p
+{
+    color: Gold;
+    font-size: 18px;
+    font-family: 'Trebuchet MS';
+    text-shadow: 2px 2px 2px #26262b;
+}
+h4{
+    color: 4px 4px 4px  rgb(10, 10, 75);
+    box-shadow: 4px 4px 4px #26262b;
+}
